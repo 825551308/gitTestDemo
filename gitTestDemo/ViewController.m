@@ -19,7 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     int a = 3;
     int b = 4;
-    NSLog(@"%d",a+b);
+    NSLog(@"你好啊%d",a+b);
+    NSLog(@"1+1 ＝ 2");
 }
 
 - (void)didReceiveMemoryWarning {
