@@ -6,13 +6,6 @@
                       "tabBarNavigationItemTitle": "工作日志",
                       "tabBarItemImage": "plain",
                       "nav": "1"
-                      },
-                       {
-                      "controllerName": "Item2_VC",
-                      "tabBarItemTitle": "测试2",
-                      "tabBarNavigationItemTitle": "测试2",
-                      "tabBarItemImage": "typeOfLife",
-                      "nav": "1"
                       }
                   ]
 }
