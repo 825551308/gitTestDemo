@@ -36,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9C4C71A11FBD614600CCF355 /* 1461755001463.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 1461755001463.mp4; sourceTree = "<group>"; };
+		9C4C71A21FBD616600CCF355 /* 1462329453588.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 1462329453588.mp4; sourceTree = "<group>"; };
 		A501099A1ECACD6C00D92A19 /* gitTestDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gitTestDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A501099E1ECACD6C00D92A19 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		A50109A01ECACD6C00D92A19 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -103,6 +105,8 @@
 		A501099C1ECACD6C00D92A19 /* gitTestDemo */ = {
 			isa = PBXGroup;
 			children = (
+				9C4C71A11FBD614600CCF355 /* 1461755001463.mp4 */,
+				9C4C71A21FBD616600CCF355 /* 1462329453588.mp4 */,
 				A50109A01ECACD6C00D92A19 /* AppDelegate.h */,
 				A50109A11ECACD6C00D92A19 /* AppDelegate.m */,
 				A50109A31ECACD6C00D92A19 /* ViewController.h */,
@@ -502,6 +506,7 @@
 				A50109CC1ECACD6C00D92A19 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A50109CD1ECACD6C00D92A19 /* Build configuration list for PBXNativeTarget "gitTestDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -510,6 +515,7 @@
 				A50109CF1ECACD6C00D92A19 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A50109D01ECACD6C00D92A19 /* Build configuration list for PBXNativeTarget "gitTestDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -518,6 +524,7 @@
 				A50109D21ECACD6C00D92A19 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
